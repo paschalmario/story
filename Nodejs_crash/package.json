@@ -1,0 +1,12 @@
+{
+  "name": "nodejs_crash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
