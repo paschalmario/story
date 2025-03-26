@@ -9,6 +9,5 @@ import  getPosts, {getPostsLength}  from "./utils.js"
 let grn = getPosts();
 
 
-
 console.log(grn[1]);
 console.log(getPostsLength());
