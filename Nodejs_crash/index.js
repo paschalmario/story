@@ -11,4 +11,4 @@ let grn = getPosts();
 
 console.log(grn[1]);
 console.log(getPostsLength());
-console.log("result");
+console.log("There are many ways to kill a rat");
