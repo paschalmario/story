@@ -11,4 +11,4 @@ let grn = getPosts();
 
 console.log(grn[1]);
 console.log(getPostsLength());
-console.log("many Lives have benn given");
+
